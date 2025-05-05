@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sarunasdaujotis-vilnius-transport-mcp-server-badge.png)](https://mseep.ai/app/sarunasdaujotis-vilnius-transport-mcp-server)
+
 # Vilnius Transport MCP Server
 
 A Model Context Protocol (MCP) server implementation that provides Vilnius public transport data access capabilities to Large Language Models (LLMs). This project demonstrates how to extend LLM capabilities with real-time transport data using the MCP standard.
